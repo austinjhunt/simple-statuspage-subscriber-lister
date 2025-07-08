@@ -1,4 +1,4 @@
-# Atlassian StatusPage Scripts
+# Atlassian StatusPage Per-Component Subscriber Lister
 
 The Atlassian StatusPage product does offer a REST API but it is somewhat limited. We received a key question, "who is subscribed to a given component?" and were unable to answer via the UI or the API. The [get_subscribers_for_component.py](./get_subscribers_for_component.py) script in this project addresses this question. 
 
