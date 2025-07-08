@@ -1,0 +1,597 @@
+[
+  {
+    "id": "00fxm554d9dk",
+    "email": "riceh@g.cofc.edu",
+    "created_at": "2025-04-14T21:29:59Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "01g5p4s4c48j",
+    "email": "hortonhn1@g.cofc.edu",
+    "created_at": "2025-04-01T14:37:48Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "01lbq0bh8vrf",
+    "email": "bartolomeopr@g.cofc.edu",
+    "created_at": "2025-04-01T14:40:28Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "02f08bgtjs4g",
+    "email": "kowalewskiaj@g.cofc.edu",
+    "created_at": "2025-04-01T15:03:56Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "037kj1qz4pn2",
+    "email": "chadhacm@g.cofc.edu",
+    "created_at": "2025-04-01T14:52:56Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "044m28z2b3fx",
+    "email": "kellyea@g.cofc.edu",
+    "created_at": "2025-04-14T20:31:58Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "04j0k1nh139s",
+    "email": "poyerm@cofc.edu",
+    "created_at": "2025-03-26T15:33:02Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "05f366gfw8hq",
+    "email": "balljr@cofc.edu",
+    "created_at": "2025-03-26T17:07:59Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "06p31fmwth1g",
+    "email": "levissa@g.cofc.edu",
+    "created_at": "2025-04-16T12:13:35Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "08kmt78gp7vh",
+    "email": "shearint@g.cofc.edu",
+    "created_at": "2025-04-02T01:29:47Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "0925br7qht6z",
+    "email": "wallerc1@g.cofc.edu",
+    "created_at": "2025-05-21T20:38:00Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "09lzlw4n0pwv",
+    "email": "hilld@cofc.edu",
+    "created_at": "2025-04-09T17:52:08Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "0h1zgy4lgzhp",
+    "email": "weavercc1@g.cofc.edu",
+    "created_at": "2025-04-08T15:58:21Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "0jsk1hy07p12",
+    "email": "greenema1@cofc.edu",
+    "created_at": "2025-03-26T14:09:07Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "0lt5prwwy83m",
+    "email": "quinnmedfordtj@cofc.edu",
+    "created_at": "2025-04-09T18:32:31Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "0s4qwvmt5hxx",
+    "email": "oharalc@g.cofc.edu",
+    "created_at": "2025-04-01T16:40:47Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "0s4tfs44hshr",
+    "email": "pilkintonp@cofc.edu",
+    "created_at": "2025-03-26T14:21:51Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "0tgytq68cl73",
+    "email": "kershawf@cofc.edu",
+    "created_at": "2025-04-10T23:40:56Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "11zmkjxvzbb5",
+    "email": "badrancg@g.cofc.edu",
+    "created_at": "2025-04-01T16:02:34Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "1342cx84bsh7",
+    "email": null,
+    "created_at": "2025-04-02T13:26:17Z",
+    "mode": "sms",
+    "phone_number": "8435684564"
+  },
+  {
+    "id": "13q6s4whz7hy",
+    "email": "mayesn1@g.cofc.edu",
+    "created_at": "2025-04-13T23:12:52Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "14fm0cpv44x1",
+    "email": "juranddw@g.cofc.edu",
+    "created_at": "2025-04-01T14:44:02Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "16m7z2bkqxm7",
+    "email": "beutele@cofc.edu",
+    "created_at": "2025-03-31T20:32:34Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "187s1p1lq89l",
+    "email": "quincosesza@g.cofc.edu",
+    "created_at": "2025-04-13T20:49:18Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "19xtk6syf1h7",
+    "email": "kerseyr@charleston.edu",
+    "created_at": "2025-03-26T14:10:05Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "1blx6cd08zcy",
+    "email": "mcleanke@cofc.edu",
+    "created_at": "2025-03-26T16:15:02Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "1dy4qfjx9nm4",
+    "email": "rosstp@cofc.edu",
+    "created_at": "2025-04-09T16:07:17Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "1gyl6kxffc9g",
+    "email": "greeneh@cofc.edu",
+    "created_at": "2025-04-10T12:05:59Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "1jfks8d40665",
+    "email": "ditmoresl@g.cofc.edu",
+    "created_at": "2025-04-07T18:47:14Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "1kj0ntdfn48k",
+    "email": "koreyc@cofc.edu",
+    "created_at": "2025-04-01T20:13:04Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "1t605x7lv2df",
+    "email": "lackeyji@g.cofc.edu",
+    "created_at": "2025-04-02T13:18:47Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "1vyf03fdyby4",
+    "email": "tillerk@cofc.edu",
+    "created_at": "2025-04-09T17:38:28Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "1x37yqqdqwqm",
+    "email": "woodsr1@cofc.edu",
+    "created_at": "2025-03-27T13:44:11Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "1xd7pqvqybdv",
+    "email": "davidsk1@cofc.edu",
+    "created_at": "2025-04-22T19:22:27Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "1xs9pxg6dfdh",
+    "email": "birrerd@cofc.edu",
+    "created_at": "2025-04-08T10:21:55Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "1z9gwqj2rm76",
+    "email": null,
+    "created_at": "2025-04-08T15:58:41Z",
+    "mode": "sms",
+    "phone_number": "2482778979"
+  },
+  {
+    "id": "249qv1bk2n2p",
+    "email": "hartwigal@cofc.edu",
+    "created_at": "2025-04-14T16:18:53Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "24bycxcsxvh5",
+    "email": "lamontagnek@cofc.edu",
+    "created_at": "2025-03-26T14:01:34Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "26186v30qskb",
+    "email": "hoffmannh@cofc.edu",
+    "created_at": "2025-04-08T18:06:37Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "26cm2c6b3x0s",
+    "email": "putnameu@g.cofc.edu",
+    "created_at": "2025-04-14T18:19:59Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "29wk8lmlmwyg",
+    "email": "kattwinkels@cofc.edu",
+    "created_at": "2025-04-08T14:31:09Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2bc3v5pw6c6w",
+    "email": "leen@cofc.edu",
+    "created_at": "2025-04-09T03:21:02Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2c4skl22sv5v",
+    "email": null,
+    "created_at": "2025-03-24T16:30:19Z",
+    "mode": "sms",
+    "phone_number": "8434717177"
+  },
+  {
+    "id": "2c6pzxmcdyxj",
+    "email": "bondct@cofc.edu",
+    "created_at": "2025-04-14T13:30:48Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2chdklkmylz9",
+    "email": "bennettj@cofc.edu",
+    "created_at": "2025-03-10T16:13:36Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2d6qfts686r8",
+    "email": "harveyhr@g.cofc.edu",
+    "created_at": "2025-04-01T16:18:57Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2dhyjhkg4kyr",
+    "email": "haykalan@cofc.edu",
+    "created_at": "2025-04-14T13:19:54Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2dlb6x62rn90",
+    "email": "blackwellc@cofc.edu",
+    "created_at": "2025-03-28T20:19:16Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2f3crrnl7f0b",
+    "email": "maynardww@cofc.edu",
+    "created_at": "2025-04-14T18:08:27Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2gnnm4n1gst6",
+    "email": "berrye@cofc.edu",
+    "created_at": "2025-03-26T14:06:15Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2h96wr4df8yx",
+    "email": "denningkn@g.cofc.edu",
+    "created_at": "2025-04-08T11:55:23Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2jnrj574262c",
+    "email": "arandama@g.cofc.edu",
+    "created_at": "2025-04-14T18:41:12Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2jwt4m707qg6",
+    "email": "vealw@cofc.edu",
+    "created_at": "2025-04-14T17:38:38Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2l0tq4ks0hhy",
+    "email": "wendtmr@g.cofc.edu",
+    "created_at": "2025-04-01T14:33:29Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2mndvfxsd942",
+    "email": "matthewscd@cofc.edu",
+    "created_at": "2025-05-01T15:24:39Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2p2pmzv3d7s1",
+    "email": "almasibusha@cofc.edu",
+    "created_at": "2025-04-14T13:16:43Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2qm2l5q7xf4l",
+    "email": "perezg3@g.cofc.edu",
+    "created_at": "2025-04-09T18:00:47Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2qpqg32b5brj",
+    "email": "kennedyaa@g.cofc.edu",
+    "created_at": "2025-04-02T03:42:12Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2sqckzjwrl7f",
+    "email": "landisc@cofc.edu",
+    "created_at": "2025-03-26T14:32:03Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2tqgwkhm2q4j",
+    "email": "thomasj6@cofc.edu",
+    "created_at": "2025-04-01T23:53:43Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2v7933f3kwfz",
+    "email": "bjerken@cofc.edu",
+    "created_at": "2025-04-14T13:11:36Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2vw8st35twbr",
+    "email": "meecesl@g.cofc.edu",
+    "created_at": "2025-04-02T15:04:17Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2w1pzc18pp15",
+    "email": "grovesat@g.cofc.edu",
+    "created_at": "2025-04-14T14:09:31Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "2zkb39smwpc3",
+    "email": "harrisj6@g.cofc.edu",
+    "created_at": "2025-04-14T19:54:41Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "30n8mlhngp2y",
+    "email": "allenec@cofc.edu",
+    "created_at": "2025-04-08T17:32:44Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "31kzf7lr38zw",
+    "email": "nagelgl@cofc.edu",
+    "created_at": "2025-04-14T13:04:45Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "3386td4k3fgm",
+    "email": "harichandrans@g.cofc.edu",
+    "created_at": "2025-04-01T17:44:38Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "33wvx4qvfbng",
+    "email": "benignim@cofc.edu",
+    "created_at": "2025-03-12T15:45:28Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "34m8bpzndwvr",
+    "email": null,
+    "created_at": "2025-04-01T14:31:21Z",
+    "mode": "sms",
+    "phone_number": "8542023255"
+  },
+  {
+    "id": "34w04pxvw6gr",
+    "email": "campbellld@g.cofc.edu",
+    "created_at": "2025-04-21T14:40:26Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "38hydgjgtnq2",
+    "email": "atkinsonri@g.cofc.edu",
+    "created_at": "2025-04-02T18:36:59Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "38nsvbl24rhn",
+    "email": "moorec@cofc.edu",
+    "created_at": "2025-04-01T19:01:48Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "3cfbwyy4y3zt",
+    "email": "millerdj@cofc.edu",
+    "created_at": "2025-04-14T13:26:35Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "3dnrx3b7spzp",
+    "email": "idelsohne@cofc.edu",
+    "created_at": "2025-04-08T14:26:01Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "3fpzs7nbvdbv",
+    "email": "jamesbl@g.cofc.edu",
+    "created_at": "2025-04-05T00:01:29Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "3ks0y0g47q1p",
+    "email": "kreekec@g.cofc.edu",
+    "created_at": "2025-04-01T15:17:46Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "3lyq2lp6mrb9",
+    "email": "skinnerco@g.cofc.edu",
+    "created_at": "2025-04-01T19:44:43Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "3qns3gl7bnbs",
+    "email": "koreyvaw@cofc.edu",
+    "created_at": "2025-03-26T15:20:23Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "3s85m4blb5zc",
+    "email": null,
+    "created_at": "2025-04-02T13:50:25Z",
+    "mode": "sms",
+    "phone_number": "8646140544"
+  },
+  {
+    "id": "3t0p9641nfl6",
+    "email": "saboeke@cofc.edu",
+    "created_at": "2025-04-10T12:27:33Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "3vgjh9fn280q",
+    "email": "thomasc10@cofc.edu",
+    "created_at": "2025-03-27T13:28:49Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "3w5g8b5cty19",
+    "email": "smithjl17@g.cofc.edu",
+    "created_at": "2025-04-14T14:11:52Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "3wdxhxhc9ymy",
+    "email": "beanxd@g.cofc.edu",
+    "created_at": "2025-04-14T14:02:00Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "3wfw9k081tts",
+    "email": "pgarbari@g.cofc.edu",
+    "created_at": "2025-04-05T10:28:40Z",
+    "mode": "email",
+    "phone_number": null
+  },
+  {
+    "id": "3ymrcz22prcj",
+    "email": "lyonsmw1@g.cofc.edu",
+    "created_at": "2025-04-09T01:23:48Z",
+    "mode": "email",
+    "phone_number": null
+  }
+]
